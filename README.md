@@ -1,3 +1,2 @@
-# Local
-Local clone
-TEST123
+# Local GitHub 
+Local clone of GitHub on MacBook
