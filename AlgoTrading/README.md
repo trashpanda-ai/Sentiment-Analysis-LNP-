@@ -12,7 +12,7 @@ The objective is a comprehensive overview in three lectures including
 
 1.  Intro
 
-    1a. Whats AlgoTrading and what subsets of AlgoTrading will we focus on
+    1a. What is AlgoTrading and what subsets of AlgoTrading will we focus on
     
     1b. What are the benefits of AlgoTrading and why should you invest your time learning
     
