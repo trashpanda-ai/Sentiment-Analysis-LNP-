@@ -11,8 +11,11 @@ The objective is a comprehensive overview in three lectures including
 ## Contents
 
 1.  Intro
+
     1a. Whats AlgoTrading and what subsets of AlgoTrading will we focus on
+    
     1b. What are the benefits of AlgoTrading and why should you invest your time learning
+    
 2.  Data: What are my sources, how do I get an edge on data and what will it cost
 3.  Let's limit our universe: What Markets and Instruments are fit
 4.  Statistical Learning Models to use and Why (Links to Backup for revision of Basics in Statistics)
@@ -25,9 +28,13 @@ The objective is a comprehensive overview in three lectures including
     
 5.  Common Strategies and how to apply them (Momentum and Pairs Trading)
 6.  Backtesting
-    8a. Biases: Overfitting, Look-Ahead and Survivorship, 
+
+    8a. Biases: Overfitting, Look-Ahead and Survivorship 
+    
     8b. Transaction Costs: Commission, Slippage and Market Impact
+    
     8c. Performance: Returns, Risk and Drawdown
+    
 7.  Portfolio Strategy - Risk and Money Management
 8.  Outlook for Part II: Derivatives, Deep Learning and Sentiment Analysis  
 9.  Interesting Sources for a Stream of Information and novel Strategies
