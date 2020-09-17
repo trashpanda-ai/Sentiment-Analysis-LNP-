@@ -1,12 +1,13 @@
 # Algo Trading 101 
+
 This is a comprehensible Introduction to Algo Trading for the members of TU I, to raise curiosity and resurrect Alternative Strategies/Assets.
 The objective is a comprehensive overview in three lectures including 
 - Data Collection, Preparation and Manipulation, 
 - Model Selection and 
 - Backtesting.
-To limit our time spent per section, basics in Python and Statistics are welcomed. If not, there will be links to a Backup Section with additional code and explanations.
+*To limit our time spent per section, basics in Python and Statistics are welcomed. If not, there will be links to a Backup Section with additional code and explanations.*
 
-Contents
+## Contents
 
 1.  Intro
     1a. Whats AlgoTrading and what subsets of AlgoTrading will we focus on
