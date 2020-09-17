@@ -5,6 +5,7 @@ The objective is a comprehensive overview in three lectures including
 - Data Collection, Preparation and Manipulation, 
 - Model Selection and 
 - Backtesting.
+
 *To limit our time spent per section, basics in Python and Statistics are welcomed. If not, there will be links to a Backup Section with additional code and explanations.*
 
 ## Contents
@@ -15,9 +16,13 @@ The objective is a comprehensive overview in three lectures including
 2.  Data: What are my sources, how do I get an edge on data and what will it cost
 3.  Let's limit our universe: What Markets and Instruments are fit
 4.  Statistical Learning Models to use and Why (Links to Backup for revision of Basics in Statistics)
+
     4a. Regression and Classification as Basis for ML and DL
+    
     4b. Cointegration and Stationarity
+    
     4c. Supervised, unsupervised and reinforced Learning
+    
 5.  Common Strategies and how to apply them (Momentum and Pairs Trading)
 6.  Backtesting
     8a. Biases: Overfitting, Look-Ahead and Survivorship, 
