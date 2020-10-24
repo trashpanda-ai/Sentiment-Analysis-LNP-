@@ -3,8 +3,8 @@
 This is a comprehensible Introduction to Algo Trading for the members of TU I, to raise curiosity and resurrect Alternative Strategies/Assets.
 The objective is a comprehensive overview in three lectures including 
 - Data Collection, Preparation and Manipulation, 
-- Model Selection and 
-- Backtesting.
+- Model Selection and Discussion,
+- Backtesting and Portfolio Strategy.
 
 *To limit our time spent per section, basics in Python and Statistics are welcomed. If not, there will be links to a Backup Section with additional code and explanations.*
 
@@ -50,22 +50,24 @@ The objective is a comprehensive overview in three lectures including
        <li><a href="#12"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
        >Cointegration </span> </a></li>     
        <li><a href="#19"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
-       >Todays Objective: processed dataset for our next lecture as feather pd </span> </a></li>
+       >Todays Objective: processed dataset for our next lecture </span> </a></li>
        </ol>
        <li><a href="#13"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
-       >The two Basic Strategies as Foundation</span> </a></li> 
+       >The  Basic Strategies as Foundation</span> </a></li> 
        <ol>
+          <li><a href="#17"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
+       >Mean Reversion and Moving Average</span> </a></li>
        <li><a href="#17"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
-       >Trend Based: Mean Reversion and Momentum</span> </a></li>
+       >Trend Based: Momentum</span> </a></li>
        <li><a href="#18"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
-       >Pairs Trading</span> </a></li>    
+       >Pairs Trading</span> </a></li>
+       <li><a href="#18"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
+       >Long-Short Equity</span> </a></li>       
        </ol>   
        <li><a href="#13"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
        >Advanced Manipulation to gain an Edge</span> </a></li> 
        <ol>
-       <li><a href="#18"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
-       >Augmented-Dickey Fuller </span> </a></li> 
-       <li><a href="#16"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
+   <li><a href="#16"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
        >Hurst Exponents </span> </a></li>
        <li><a href="#18"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
        >Ornstein-Uhlenbeck </span> </a></li>
@@ -95,34 +97,36 @@ The objective is a comprehensive overview in three lectures including
        >Thresholds for Entry and Exit</span> </a></li>
        <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
        >Position Sizing</span> </a></li>
+       <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
+       >Leverage</span> </a></li>
        </ol>
         <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
        >Backtesting</span> </a></li>
        <ol>
+       <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
+       >Biases: Look-Ahead, Survivorship and Optimization</span> </a></li>    
+       <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
+       >Volume, Slippage, Liquidity and other Costs</span> </a></li>   
         <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
-       >Libraries</span> </a></li>   
-       <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
-       >Biases: Look-Ahead, Survivorship and Overfitting</span> </a></li>    
-       <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
-       >Transaction Costs</span> </a></li>      
+       >Libraries</span> </a></li>      
         </ol>
        <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
        >Performance</span> </a></li>
        <ol>
         <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
-       >Returns, Risk and Drawdown</span> </a></li>   
+       >Basics: Alpha and Beta</span> </a></li>   
        <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
-       >Beta Hedging</span> </a></li>    
+       >Portfolio Overview: Returns, Risk and Drawdown</span> </a></li>  
        <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
-       >Portfolio Overview</span> </a></li>      
+       >Beta Hedging</span> </a></li>        
         </ol>
         <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
        >Portfolio Strategy</span> </a></li>
        <ol>
         <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
-       >Money Management</span> </a></li>    
+       >Markowitz</span> </a></li>    
        <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
-       >Markowitz</span> </a></li>      
+       >Risk-Constrained Portfolio Optimization</span> </a></li>      
         </ol> 
         <li><a href="#20"> <span style="color:#022F73;text-decoration:underline;text-decoration-color:#F2F2F2" 
        >APPENDIX</span> </a></li>
