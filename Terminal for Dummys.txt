@@ -8,5 +8,5 @@ When in GitHub-Local repo:
 
 git pull --all
 git add -f --all
-git commit -a  -m "Add existing file"
+git commit -a  -m "Update"
 git push --all origin
