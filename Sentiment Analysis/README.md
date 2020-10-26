@@ -1,8 +1,7 @@
 # Sentiment Analysis on Financial News
-Sentiment Analysis with FinBERT (pre-trained Model) on Financial News (only Headlines), that have been published while the stock market was closed. (Websites will be parsed after closing and before opening ---> Unique rows will be uploaded on database)
-## Why only News outside opening hours? 
-1. The Sentiment Analysis will be used as an additional KPI for Risk Management in (Algo)Trading to support calculation of confidence intervals and thresholds.
-2. Other Traders are definitely faster - therefore the News itself cannot help to gain an edge.
+Sentiment Analysis with VADER and FinBERT  on news headlines, and design of MySQL database with a time series on respective daily sentiments scores. 
+Will be used as an additional KPI for Risk Management in (Algo)Trading to support calculation of confidence intervals and thresholds before the markets open. 
+(First, it should be tested and validated  with at least several months of data)
 
 
 ### Motivation
