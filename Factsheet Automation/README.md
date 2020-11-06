@@ -11,11 +11,11 @@ This is going to be the most versatile approach to document sampled wines. You h
 First we need an empty LaTex Template and generate our visualisations with the Tikz package. The values will be variables.
 Then we are going to create a database with all the information needed to fill our template. For this task we will use Excel because its easy to use, available on all platforms and very friendly for editing texts. (--> exported as .csv)
 Finally we can automate the filling in of variables.
-To complement the final set of Factsheets, we will add a few introductory pages at the beginning (including a cover) and add an appendix in the end (e.g. explanations of used Icons).
+To complement the final set of Factsheets, we will add a few introductory pages at the beginning (including a cover) and add an appendix or back cover in the end.
 
 
 ### Preliminary Variables
-Name; Year; Rating; Price Range; Winery; Winery Description; Country; Region; Category; Light-to-Bold; Smooth-to-Tannic; Dry-to-Sweet; Soft-to-Acidic; Grapes; Wine Style; Wine Style Description; Alcohol; Main Impressions A; Main Impressions B; Main Impressions C; Food Pairing; Notes; Color (based on country?);
+Name; Year; Rating; Price Range; Winery; Winery Description; Country; Region; Category; Light-to-Bold; Smooth-to-Tannic; Dry-to-Sweet; Soft-to-Acidic; Grapes; Wine Style; Wine Style Description; Alcohol; Main Impressions A; Main Impressions B; Main Impressions C; Food Pairing; Notes; Color (based on country);
 
 "Light-to-Bold; Smooth-to-Tannic; Dry-to-Sweet; Soft-to-Acidic;" are for the taste profile analogous to Vivino.
 "Winery; Country; Region; Grapes; Wine Style;" are the "Fundamentals" - not really important for each sample, but very useful for upcoming analysis to find clusters of preferences.
