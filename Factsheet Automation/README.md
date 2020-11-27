@@ -18,5 +18,7 @@ To complement the final set of Factsheets, we will add a few introductory pages 
 Name; Year; Rating; Price Range; Winery; Winery Description; Country; Region; Category; Light-to-Bold; Smooth-to-Tannic; Dry-to-Sweet; Soft-to-Acidic; Grapes; Wine Style; Wine Style Description; Alcohol; Main Impressions A; Main Impressions B; Main Impressions C; Food Pairing; Notes; Color (based on country);
 
 "Light-to-Bold; Smooth-to-Tannic; Dry-to-Sweet; Soft-to-Acidic;" are for the taste profile analogous to Vivino.
+*Update: Obviously only Red Wine has a Smooth to Tannic Profile! Therefore we introduce "Gentle to Fizzy" for Sparkling Wines and "lean to creamy" for White and Rosé Wines. The Matching is done by Excel (VLOOKUP).*
+
 "Winery; Country; Region; Grapes; Wine Style;" are the "Fundamentals" - not really important for each sample, but very useful for upcoming analysis to find clusters of preferences.
 
