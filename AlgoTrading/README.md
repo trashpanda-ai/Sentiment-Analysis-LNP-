@@ -143,3 +143,63 @@ The objective is a comprehensive overview in three lectures including
     </ol>
     </span>
 </div>
+
+
+
+
+## Preliminary lecture structure
+
+
+| Lecture | Chapter | Content | in Lecture | as Homework | 
+| ------ | ------ | ------ | ------ | ------ |
+| 1 | 1 | **Intro**  | 
+| 1 | a | A comprehensive Overview  | &#9745;
+| 1 | b | Definition of AlgoTrading  | &#9745;
+| 1 | c | Benefits of an algorithmic approach  | &#9745;
+| 1 | d | Our Focus and Scope  | &#9745;
+| 1 | 2 | **Raw Data**  | 
+| 1 | a | Provider and APIs  | &#9745;
+| 1 | b | Let's limit our universe: What Markets and Instruments are fit for the start  | &#9745;
+| 1 | c | Data Snooping: p-Hacking, SVD and PCA  | | &#9745;
+| 1 | 3 | **Preferred Statistical Characteristics of Data**  | &#9745;
+| 1 | a | Skewness and Kurtosis  | &#9745;
+| 1 | b | Stationarity  | &#9745;
+| 1 | c | Integration  | &#9745;
+| 1 | d | Cointegration | &#9745;
+| 1 | e | Todays Objective: processed dataset for our next lecture  | | &#9745;
+| 2 | 4 | **The Basic Strategies as Foundation**  | 
+| 2 | a | Mean Reversion and Moving Average  | &#9745;
+| 2 | b | Trend Based: Momentum  | &#9745;
+| 2 | c | Pairs Trading  | &#9745;
+| 2 | d | Long-Short Equity  | | &#9745;
+| 2 | 5 | **Advanced Manipulation to gain an Edge**  | 
+| 2 | a | Hurst Exponents  |  | &#9745;
+| 2 | b | Ornstein-Uhlenbeck  |  | &#9745;
+| 2 | c | Kalman Filter  | &#9745;
+| 2 | d | Haar Transformation  | &#9745;
+| 2 | e | Exponential Smoothing  |  | &#9745;
+| 2 | 6 | **Artificial Intelligence** | &#9745;
+| 2 | a | Deep Neural Networks (DNN)  |  | &#9745;
+| 2 | b | Gradient-Boosted-Trees (GBT)  |  | &#9745;
+| 2 | c | Random Forests (RAF)  |  | &#9745;
+| 2 | d | Reinforcement Learning (RL)  |  | &#9745;
+| 2 | 7 | **Positions**  | &#9745;
+| 2 | a | Thresholds for Entry and Exit  | &#9745;
+| 2 | b | Position Sizing  | &#9745;
+| 2 | c | Leverage  |  | &#9745;
+| 3 | 8 | **Backtesting**  | &#9745;
+| 3 | a | Biases: Look-Ahead, Survivorship and Optimization  | &#9745;
+| 3 | b | Volume, Slippage, Liquidity and other Costs  | &#9745;
+| 3 | c | Libraries  |  | &#9745;
+| 3 | 9 | **Performance**  | &#9745;
+| 3 | a | Basics: Alpha and Beta  | &#9745;
+| 3 | b | Portfolio Overview: Returns, Risk and Drawdown  | &#9745;
+| 3 | c | Beta Hedging  |  &#9745;
+| 3 | 10 | **Portfolio Strategy**  | &#9745;
+| 3 | a | Markowitz  | &#9745;
+| 3 | b | Risk-Constrained Portfolio Optimization  |  | &#9745;
+| 3 | 11 | **APPENDIX**  | 
+| 3 | a | Outlook for Part II: Derivatives, Big Data and Sentiment Analysis  | | &#9745;
+| 3 | b | Additional Sources  | | &#9745;
+| 3 | c | Statistics 101  | | &#9745;
+| 3 | d | Python 101  | | &#9745;
