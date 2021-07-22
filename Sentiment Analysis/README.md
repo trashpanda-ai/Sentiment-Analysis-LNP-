@@ -1,7 +1,6 @@
 # Natural language processing (NLP): Sentiment Analysis on Financial News
 Sentiment Analysis with VADER and pysentiment  on news headlines, and design of MySQL database with a time series on respective daily sentiments scores. 
 Will be used as an additional KPI for Risk Management in (Algo)Trading to support calculation of confidence intervals and thresholds before the markets open. 
-(First, it should be tested and validated  with at least several months of data)
 
 
 ### Motivation
