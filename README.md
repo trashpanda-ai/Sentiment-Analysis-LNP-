@@ -5,5 +5,5 @@ Local clone of GitHub on MacBook
 - Lectures for AlgoTrading
 - Certified Derivatives Trader (EUREX) QBank Quiz
 - Factsheet Automation with LaTex
+- NLP: Sentiment Analysis for Capital Markets
 - Quantum Computing for Optimisation Problems
-- Sentiment Analysis for Capital Markets
