@@ -1,0 +1,208 @@
+
+  Bayesian network parameters
+
+  Parameters of node Australia (multinomial distribution)
+
+Conditional probability table:
+ 
+, , Switzerland = -1
+
+         Hongkong
+Australia        -1         1
+       -1 0.7304348 0.4685039
+       1  0.2695652 0.5314961
+
+, , Switzerland = 1
+
+         Hongkong
+Australia        -1         1
+       -1 0.5895062 0.3262411
+       1  0.4104938 0.6737589
+
+
+  Parameters of node Canada (multinomial distribution)
+
+Conditional probability table:
+ 
+, , USA = -1
+
+      Switzerland
+Canada        -1         1
+    -1 0.6995516 0.5346939
+    1  0.3004484 0.4653061
+
+, , USA = 1
+
+      Switzerland
+Canada        -1         1
+    -1 0.5150000 0.2628726
+    1  0.4850000 0.7371274
+
+
+  Parameters of node China (multinomial distribution)
+
+Conditional probability table:
+ 
+, , Switzerland = -1
+
+     Germany
+China        -1         1
+   -1 0.7146893 0.5151515
+   1  0.2853107 0.4848485
+
+, , Switzerland = 1
+
+     Germany
+China        -1         1
+   -1 0.5681818 0.3474843
+   1  0.4318182 0.6525157
+
+
+  Parameters of node France (multinomial distribution)
+
+Conditional probability table:
+        -1         1 
+0.5176702 0.4823298 
+
+  Parameters of node Germany (multinomial distribution)
+
+Conditional probability table:
+ 
+       France
+Germany        -1         1
+     -1 0.8606452 0.1505525
+     1  0.1393548 0.8494475
+
+  Parameters of node Hongkong (multinomial distribution)
+
+Conditional probability table:
+ 
+, , Switzerland = -1
+
+        China
+Hongkong        -1         1
+      -1 0.7759857 0.5230769
+      1  0.2240143 0.4769231
+
+, , Switzerland = 1
+
+        China
+Hongkong        -1         1
+      -1 0.6048951 0.3199105
+      1  0.3951049 0.6800895
+
+
+  Parameters of node India (multinomial distribution)
+
+Conditional probability table:
+ 
+, , Switzerland = -1
+
+     Hongkong
+India        -1         1
+   -1 0.7010870 0.5708502
+   1  0.2989130 0.4291498
+
+, , Switzerland = 1
+
+     Hongkong
+India        -1         1
+   -1 0.4871795 0.3496333
+   1  0.5128205 0.6503667
+
+
+  Parameters of node Japan (multinomial distribution)
+
+Conditional probability table:
+ 
+, , Hongkong = -1
+
+     Australia
+Japan        -1         1
+   -1 0.7292724 0.5647482
+   1  0.2707276 0.4352518
+
+, , Hongkong = 1
+
+     Australia
+Japan        -1         1
+   -1 0.4938272 0.2641026
+   1  0.5061728 0.7358974
+
+
+  Parameters of node Russia (multinomial distribution)
+
+Conditional probability table:
+ 
+, , Germany = -1
+
+      China
+Russia        -1         1
+    -1 0.6272321 0.5660377
+    1  0.3727679 0.4339623
+
+, , Germany = 1
+
+      China
+Russia        -1         1
+    -1 0.5108225 0.4005102
+    1  0.4891775 0.5994898
+
+
+  Parameters of node Switzerland (multinomial distribution)
+
+Conditional probability table:
+ 
+, , Germany = -1
+
+           France
+Switzerland        -1         1
+         -1 0.8828006 0.5504587
+         1  0.1171994 0.4495413
+
+, , Germany = 1
+
+           France
+Switzerland        -1         1
+         -1 0.4622642 0.1305785
+         1  0.5377358 0.8694215
+
+
+  Parameters of node UK (multinomial distribution)
+
+Conditional probability table:
+ 
+, , Switzerland = -1
+
+    France
+UK          -1         1
+  -1 0.8340611 0.4423077
+  1  0.1659389 0.5576923
+
+, , Switzerland = 1
+
+    France
+UK          -1         1
+  -1 0.4583333 0.1438053
+  1  0.5416667 0.8561947
+
+
+  Parameters of node USA (multinomial distribution)
+
+Conditional probability table:
+ 
+, , Germany = -1
+
+    China
+USA         -1         1
+  -1 0.7748227 0.5458167
+  1  0.2251773 0.4541833
+
+, , Germany = 1
+
+    China
+USA         -1         1
+  -1 0.6093190 0.2778947
+  1  0.3906810 0.7221053
+
+

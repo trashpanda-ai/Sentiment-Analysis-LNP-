@@ -1,0 +1,136 @@
+\begin{thebibliography}{10}
+
+\bibitem{Borgelt1999}
+{\sc Borgelt, C., and Kruse, R.}
+\newblock A critique of inductive causation.
+\newblock In {\em Symbolic and Quantitative Approaches to Reasoning and
+  Uncertainty\/} (Berlin, Heidelberg, 1999), A.~Hunter and S.~Parsons, Eds.,
+  Springer Berlin Heidelberg, pp.~68--79.
+
+\bibitem{Carvalho2009}
+{\sc Carvalho, A.~M.}
+\newblock Scoring functions for learning bayesian networks.
+\newblock Tech. rep., Instituto Superior T{\'e}cnico, Technical University of
+  Lisbon, 2009.
+
+\bibitem{Castelletti2018}
+{\sc Castelletti, F., Consonni, G., Vedova, M. L.~D., and Peluso, S.}
+\newblock {Learning Markov Equivalence Classes of Directed Acyclic Graphs: An
+  Objective Bayes Approach}.
+\newblock {\em Bayesian Analysis 13}, 4 (2018), 1235 -- 1260.
+
+\bibitem{Chicharro2014}
+{\sc Chicharro, D., and Panzeri, S.}
+\newblock Algorithms of causal inference for the analysis of effective
+  connectivity among brain regions.
+\newblock {\em Frontiers in Neuroinformatics 8\/} (2014).
+
+\bibitem{Druzdzel2009}
+{\sc Druzdzel, M.~J.}
+\newblock The role of assumptions in causal discovery.
+\newblock In {\em 8th Workshop on Uncertainty Processing (WUPES-09)\/}
+  (September 2009), pp.~57 -- 68.
+
+\bibitem{Ertel2020}
+{\sc Ertel, W.}
+\newblock {\em Grundkurs K{\"u}nstliche Intelligenz - Eine praxisorientierte
+  Einf{\"u}hrung}, 5th~ed.
+\newblock Springer-Verlag, 2020.
+
+\bibitem{Friedman1999}
+{\sc Friedman, N., Goldszmidt, M., and Wyner, A.}
+\newblock Data analysis with bayesian networks: A bootstrap approach.
+\newblock In {\em UAI '99: Proceedings of the 15th Annual Conference on
+  Uncertainty in Artificial Intelligence\/} (1999), Morgan Kaufmann, pp.~196 --
+  205.
+
+\bibitem{Glymour2019}
+{\sc Glymour, C., Zhang, K., and Spirtes, P.}
+\newblock Review of causal discovery methods based on graphical models.
+\newblock {\em Frontiers in Genetics 10\/} (2019).
+
+\bibitem{Hastie2009}
+{\sc Hastie, T., Tibshirani, R., and Friedman, J.}
+\newblock {\em The Elements of Statistical Learning}, 2nd~ed.
+\newblock Springer New York, 2009.
+
+\bibitem{Hull2021}
+{\sc Hull, J.~C.}
+\newblock {\em Options, Futures, and other Derivatives}, 11th~ed.
+\newblock Pearson, Boston, 2021.
+
+\bibitem{Imoto2002}
+{\sc Imoto, S., Kim, S., Shimodaira, H., Aburatani, S., Tashiro, K., Kuhara,
+  S., and Miyano, S.}
+\newblock Bootstrap analysis of gene networks based on bayesian networks and
+  nonparametric regression.
+\newblock {\em Genome Informatics 13\/} (2002), 369 -- 370.
+
+\bibitem{Joshi2008}
+{\sc Joshi, M.~S.}
+\newblock {\em The Concepts and Practice of Mathematical Finance}, 2nd~ed.
+\newblock Mathematics, Finance and Risk. Cambridge University Press, 2008.
+
+\bibitem{Kauermann2021}
+{\sc Kauermann, G., K\"{u}chenhoff, H., and Heumann, C.}
+\newblock {\em Statistical Foundations, Reasoning and Inference}.
+\newblock Springer International Publishing, 2021.
+
+\bibitem{Meek1995}
+{\sc Meek, C.}
+\newblock Causal inference and causal explanation with background knowledge.
+\newblock In {\em Proceedings of the Eleventh Conference on Uncertainty in
+  Artificial Intelligence\/} (San Francisco, CA, USA, 1995), UAI'95, Morgan
+  Kaufmann Publishers Inc., pp.~403--410.
+
+\bibitem{Nagarajan2014}
+{\sc Nagarajan, R., Scutari, M., and L{\`e}bre, S.}
+\newblock {\em Bayesian Networks in R}.
+\newblock Springer New York, 2014.
+
+\bibitem{Pearl2009}
+{\sc Pearl, J.}
+\newblock {\em Causality}, 2nd~ed.
+\newblock Cambridge University Press, Cambridge, UK, 2009.
+
+\bibitem{Pearl1991}
+{\sc Pearl, J., and Verma, T.}
+\newblock A theory of inferred causation.
+\newblock In {\em Proceedings of the Second International Conference on
+  Principles of Knowledge Representation and Reasoning\/} (San Francisco, CA,
+  USA, 1991), KR'91, Morgan Kaufmann Publishers Inc., pp.~441--452.
+
+\bibitem{Russell2021}
+{\sc Russell, S.~J., and Norvig, P.}
+\newblock {\em Artificial Intelligence -- A Modern Approach}, 4th~ed.
+\newblock Pearson, 2021.
+
+\bibitem{Scutari2022}
+{\sc Scutari, M.}
+\newblock Package `bnlearn'.
+\newblock Tech. rep., CRAN, 2022.
+
+\bibitem{Scutari2019}
+{\sc Scutari, M., Graafland, C.~E., and Guti{\'e}rrez, J.~M.}
+\newblock Who learns better bayesian network structures: Accuracy and speed of
+  structure learning algorithms.
+\newblock {\em International Journal of Approximate Reasoning 115\/} (2019),
+  235--253.
+
+\bibitem{Scutari2019b}
+{\sc Scutari, M., Vitolo, C., and Tucker, A.}
+\newblock Learning bayesian networks from big data with greedy search:
+  computational complexity and efficient implementation.
+\newblock {\em Statistics and Computing 29}, 5 (2019), 1095 -- 1108.
+
+\bibitem{Shumway2017}
+{\sc Shumway, R.~H., and Stoffer, D.~S.}
+\newblock {\em Time Series Analysis and Its Applications}, 4th~ed.
+\newblock Springer International Publishing, 2017.
+
+\bibitem{Spirtes1991}
+{\sc Spirtes, P., and Glymour, C.}
+\newblock An algorithm for fast recovery of sparse causal graphs.
+\newblock {\em Social Science Computer Review 9}, 1 (1991), 62 -- 72.
+
+\end{thebibliography}
