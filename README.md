@@ -7,3 +7,4 @@ Local clone of GitHub on MacBook
 - Factsheet Automation with LaTex
 - NLP: Sentiment Analysis for Capital Markets
 - Quantum Computing for Optimisation Problems
+- Causal Bayesian network analysis on implied volatility
